@@ -44,4 +44,4 @@ personalMovieDB.movies[a] = b;
 
 personalMovieDB.movies[c] = d;
 
-console.log(per)
+console.log(personalMovieDB)
